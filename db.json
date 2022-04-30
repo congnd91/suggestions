@@ -1,14 +1,10 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+{'suggestions': [{'text': 'AI21 Studio now allows you to rewrite text.'},
+{'text': 'You can now rewrite text using AI21 Studio.'},
+{'text': 'AI21 Studio can now be used to rewrite text.'},
+{'text': 'AI21 Studio now lets you rewrite text.'},
+{'text': 'Rewriting text is now possible in AI21 Studio.'},
+{'text': 'It is now possible to rewrite text in AI21 Studio.'},
+{'text': 'Using AI21 Studio, you are now able to rewrite text.'},
+{'text': 'Rewrite text with AI21 Studio now.'},
+{'text': 'In AI21 Studio, you can rewrite text.'},
+{'text': 'AI21 Studio now provides rewriting functionality.'}]}
